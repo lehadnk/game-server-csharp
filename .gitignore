@@ -1,0 +1,6 @@
+﻿bin
+.vs
+Properties
+obj
+*.suo
+*.user
