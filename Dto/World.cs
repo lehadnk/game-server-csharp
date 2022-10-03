@@ -1,4 +1,4 @@
-﻿namespace GameServer.Persistence
+﻿namespace GameServer.Dto
 {
     public class World
     {

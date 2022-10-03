@@ -1,7 +1,7 @@
 ﻿using GameServer.Persistence.Models;
 using System.Net.Sockets;
 
-namespace GameServer.Persistence
+namespace GameServer.Dto
 {
     public class Player
     {

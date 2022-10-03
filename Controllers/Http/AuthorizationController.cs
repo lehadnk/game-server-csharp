@@ -1,4 +1,5 @@
 ﻿using GameServer.Controllers.Requests;
+using GameServer.Dto;
 using GameServer.Framework;
 using GameServer.Persistence;
 using GameServer.Services.WorldService;
